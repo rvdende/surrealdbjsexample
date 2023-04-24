@@ -1,0 +1,10 @@
+[
+  {
+    "some": "data",
+    "foo": 1
+  },
+  {
+    "some": "more",
+    "foo": 2
+  }
+]
